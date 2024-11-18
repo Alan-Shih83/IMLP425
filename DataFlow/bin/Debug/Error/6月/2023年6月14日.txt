@@ -1,0 +1,11 @@
+DataFlow.BasicPipleLine`1[DataFlow.ProcessPipe] System.InvalidOperationException: 集合已修改; 列舉作業可能尚未執行。
+   於 System.Collections.Hashtable.HashtableEnumerator.MoveNext()
+   於 System.Linq.Enumerable.<OfTypeIterator>d__95`1.MoveNext()
+   於 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   於 DataFlow.Assembly.<Compose>d__5.MoveNext() 於 C:\Users\idesmtl802\Desktop\新增資料夾\DataFlow20230531\DataFlow\20230530_vs2019\DataFlow\Assembly.cs: 行 45
+   於 DataFlow.DataAssembly.<Compose>d__10.MoveNext() 於 C:\Users\idesmtl802\Desktop\新增資料夾\DataFlow20230531\DataFlow\20230530_vs2019\DataFlow\DataAssembly.cs: 行 61
+--- 先前擲回例外狀況之位置中的堆疊追蹤結尾 ---
+   於 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   於 System.Runtime.CompilerServices.TaskAwaiter.GetResult()
+   於 DataFlow.PipleLine`1.<Flow>d__14.MoveNext() 於 C:\Users\idesmtl802\Desktop\新增資料夾\DataFlow20230531\DataFlow\20230530_vs2019\DataFlow\PipleLine.cs: 行 91

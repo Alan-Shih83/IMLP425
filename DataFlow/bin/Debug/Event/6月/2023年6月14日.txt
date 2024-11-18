@@ -1,0 +1,158 @@
+2023/6/14 上午 10:48:24 DataFlow.Client DisConnect. 
+2023/6/14 上午 10:48:24 DataFlow.Client DisReconnect . 
+2023/6/14 上午 10:50:35 DataFlow.Client 192.168.11.245:1000 Start.
+2023/6/14 上午 10:50:35 DataFlow.Client 192.168.11.245:1000 Connect. 
+2023/6/14 上午 10:50:36 DataFlow.Serial SerialPort(COM1) Connected.
+2023/6/14 上午 10:50:51 DataFlow.Client DisConnect. 
+2023/6/14 上午 10:50:51 DataFlow.Client DisReconnect . 
+2023/6/14 上午 10:50:58 DataFlow.Client 192.168.11.245:1000 Start.
+2023/6/14 上午 10:50:58 DataFlow.Client 192.168.11.245:1000 Connect. 
+2023/6/14 上午 10:50:58 DataFlow.Serial SerialPort(COM1) Connected.
+2023/6/14 上午 10:51:05 DataFlow.Client DisConnect. 
+2023/6/14 上午 10:51:05 DataFlow.Client DisReconnect . 
+2023/6/14 上午 10:51:09 DataFlow.Client 192.168.11.245:1000 Start.
+2023/6/14 上午 10:51:09 DataFlow.Client 192.168.11.245:1000 Connect. 
+2023/6/14 上午 10:51:09 DataFlow.Serial SerialPort(COM1) Connected.
+2023/6/14 上午 10:51:18 DataFlow.Client DisConnect. 
+2023/6/14 上午 10:51:39 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 上午 10:51:39 DataFlow.Client 192.168.11.245:1000 Connect. 
+2023/6/14 上午 10:51:50 DataFlow.Client DisConnect. 
+2023/6/14 上午 10:52:11 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 上午 10:52:11 DataFlow.Client 192.168.11.245:1000 Connect. 
+2023/6/14 上午 10:52:47 DataFlow.Client DisConnect. 
+2023/6/14 上午 10:52:47 DataFlow.Client DisReconnect . 
+2023/6/14 上午 10:53:19 DataFlow.Client 192.168.11.245:1000 Start.
+2023/6/14 上午 10:53:19 DataFlow.Client 192.168.11.245:1000 Connect. 
+2023/6/14 上午 10:53:19 DataFlow.Serial SerialPort(COM1) Connected.
+2023/6/14 上午 10:57:21 DataFlow.Client DisConnect. 
+2023/6/14 上午 10:57:21 DataFlow.Client DisReconnect . 
+2023/6/14 上午 10:57:23 DataFlow.Client 192.168.11.245:1000 Start.
+2023/6/14 上午 10:57:23 DataFlow.Client 192.168.11.245:1000 Connect. 
+2023/6/14 上午 10:57:24 DataFlow.Serial SerialPort(COM1) Connected.
+2023/6/14 上午 11:00:36 DataFlow.Client DisConnect. 
+2023/6/14 上午 11:00:36 DataFlow.Client DisReconnect . 
+2023/6/14 上午 11:00:38 DataFlow.Client 192.168.11.245:1000 Start.
+2023/6/14 上午 11:00:38 DataFlow.Client 192.168.11.245:1000 Connect. 
+2023/6/14 上午 11:00:45 DataFlow.Client DisConnect. 
+2023/6/14 上午 11:00:45 DataFlow.Client DisReconnect . 
+2023/6/14 上午 11:00:46 DataFlow.Client 192.168.11.245:1000 Start.
+2023/6/14 上午 11:00:46 DataFlow.Client 192.168.11.245:1000 Connect. 
+2023/6/14 上午 11:06:27 DataFlow.Client DisConnect. 
+2023/6/14 上午 11:06:27 DataFlow.Client DisReconnect . 
+2023/6/14 上午 11:12:04 DataFlow.Client 192.168.11.245:1000 Start.
+2023/6/14 上午 11:12:04 DataFlow.Client 192.168.11.245:1000 Connect. 
+2023/6/14 上午 11:12:05 DataFlow.Serial SerialPort(COM1) Connected.
+2023/6/14 上午 11:12:10 DataFlow.Client DisConnect. 
+2023/6/14 上午 11:12:10 DataFlow.Client DisReconnect . 
+2023/6/14 上午 11:12:11 DataFlow.Client 192.168.11.245:1000 Start.
+2023/6/14 上午 11:12:11 DataFlow.Client 192.168.11.245:1000 Connect. 
+2023/6/14 上午 11:12:13 DataFlow.Client DisConnect. 
+2023/6/14 上午 11:12:13 DataFlow.Client DisReconnect . 
+2023/6/14 上午 11:12:14 DataFlow.Client 192.168.11.245:1000 Start.
+2023/6/14 上午 11:12:14 DataFlow.Client 192.168.11.245:1000 Connect. 
+2023/6/14 上午 11:14:27 DataFlow.Serial ConnectDetecion Released.
+2023/6/14 上午 11:14:27 DataFlow.Serial SerialPort(COM1) Receive Released.
+2023/6/14 上午 11:14:27 DataFlow.Serial SerialPort(COM1) Disconnected.
+2023/6/14 上午 11:14:29 DataFlow.Serial SerialPort(COM1) Connected.
+2023/6/14 上午 11:14:42 DataFlow.Client DisConnect. 
+2023/6/14 上午 11:14:42 DataFlow.Client DisReconnect . 
+2023/6/14 下午 01:13:27 DataFlow.Client 192.168.11.245:1000 Start.
+2023/6/14 下午 01:13:27 DataFlow.Serial SerialPort(COM1) Connected.
+2023/6/14 下午 01:13:48 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:14:09 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:14:30 DataFlow.Client DisConnect. 
+2023/6/14 下午 01:14:30 DataFlow.Client DisReconnect . 
+2023/6/14 下午 01:20:46 DataFlow.Client 192.168.11.245:1000 Start.
+2023/6/14 下午 01:20:47 DataFlow.Serial SerialPort(COM1) Connected.
+2023/6/14 下午 01:21:07 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:21:28 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:21:50 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:22:11 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:22:32 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:22:53 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:23:14 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:23:35 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:23:56 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:24:17 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:24:38 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:24:59 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:25:21 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:25:42 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:26:03 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:26:24 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:26:45 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:27:06 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:27:27 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:27:48 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:28:09 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:28:31 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:28:52 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:29:13 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:29:34 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:29:55 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:30:16 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:30:37 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:30:58 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:31:19 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:31:41 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:32:02 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:32:23 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:32:44 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:33:05 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:33:26 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:33:47 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:34:08 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:34:30 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:34:51 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:35:12 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:35:33 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:35:54 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:36:15 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:36:36 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:36:57 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:37:19 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:37:40 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:38:01 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:38:22 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:38:43 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:39:04 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:39:25 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:39:46 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:40:07 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:40:29 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:40:50 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:41:11 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:41:32 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:41:53 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:42:14 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:42:35 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:42:56 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:43:17 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:43:39 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:44:00 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:44:21 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:44:42 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:45:03 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:45:24 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:45:45 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:46:06 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:46:27 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:46:49 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:47:10 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:47:31 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/14 下午 01:47:31 DataFlow.Client 192.168.11.245:1000 Connect. 
+2023/6/14 下午 01:55:10 DataFlow.Client DisConnect. 
+2023/6/14 下午 01:55:10 DataFlow.Client DisReconnect . 
+2023/6/14 下午 02:09:40 DataFlow.Client 192.168.11.245:1000 Start.
+2023/6/14 下午 02:09:40 DataFlow.Client 192.168.11.245:1000 Connect. 
+2023/6/14 下午 02:09:41 DataFlow.Serial SerialPort(COM1) Connected.
+2023/6/14 下午 02:09:50 DataFlow.Serial ConnectDetecion Released.
+2023/6/14 下午 02:09:50 DataFlow.Serial SerialPort(COM1) Receive Released.
+2023/6/14 下午 02:09:50 DataFlow.Serial SerialPort(COM1) Disconnected.
+2023/6/14 下午 02:09:51 DataFlow.Client DisConnect. 
+2023/6/14 下午 02:09:51 DataFlow.Client DisReconnect . 
+2023/6/14 下午 02:09:54 DataFlow.Client 192.168.11.245:1000 Start.
+2023/6/14 下午 02:09:54 DataFlow.Client 192.168.11.245:1000 Connect. 
+2023/6/14 下午 02:09:59 DataFlow.Serial SerialPort(COM1) Connected.
+2023/6/14 下午 02:10:05 DataFlow.Client DisConnect. 
+2023/6/14 下午 02:10:05 DataFlow.Client DisReconnect . 

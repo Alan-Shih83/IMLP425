@@ -1,0 +1,3 @@
+2023/6/7 下午 02:30:41 DataFlow.Client DisConnect. 
+2023/6/7 下午 02:31:02 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/6/7 下午 02:31:02 DataFlow.Client 192.168.11.245:1000 Connect. 

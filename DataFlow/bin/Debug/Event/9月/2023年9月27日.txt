@@ -1,0 +1,4 @@
+2023/9/27 上午 03:13:12 DataFlow.Client 192.168.11.245:1000 Start.
+2023/9/27 上午 03:13:13 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/27 上午 03:13:14 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/27 上午 03:13:15 DataFlow.Serial SerialPort(COM1) Connect Searching.

@@ -1,0 +1,23 @@
+2023/9/21 上午 03:57:33 DataFlow.Client 192.168.11.245:1000 Start.
+2023/9/21 上午 03:57:33 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/21 上午 03:57:34 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/21 上午 03:57:35 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/21 上午 03:57:36 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/21 上午 03:57:38 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/21 上午 03:57:39 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/21 上午 03:57:40 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/21 上午 03:57:41 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/21 上午 03:57:42 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/21 上午 03:57:44 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/21 上午 03:57:45 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/21 上午 03:57:46 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/21 上午 03:57:47 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/21 上午 03:57:48 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/21 上午 03:57:50 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/21 上午 03:57:51 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/21 上午 03:57:52 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/21 上午 03:57:53 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/21 上午 03:57:54 DataFlow.Client 192.168.11.245:1000 ReConnect. 
+2023/9/21 上午 03:57:54 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/21 上午 03:57:56 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/9/21 上午 03:57:57 DataFlow.Serial SerialPort(COM1) Connect Searching.

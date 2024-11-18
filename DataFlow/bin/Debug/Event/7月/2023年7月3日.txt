@@ -1,0 +1,13 @@
+2023/7/3 下午 04:46:22 DataFlow.Client 192.168.11.245:1000 Start.
+2023/7/3 下午 04:46:22 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/7/3 下午 04:46:23 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/7/3 下午 04:46:25 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/7/3 下午 11:44:04 DataFlow.Client 192.168.11.245:1000 Start.
+2023/7/3 下午 11:44:05 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/7/3 下午 11:44:06 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/7/3 下午 11:44:07 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/7/3 下午 11:44:40 DataFlow.Client 192.168.11.245:1000 Start.
+2023/7/3 下午 11:44:41 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/7/3 下午 11:44:42 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/7/3 下午 11:44:43 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/7/3 下午 11:44:44 DataFlow.Serial SerialPort(COM1) Connect Searching.

@@ -1,0 +1,52 @@
+2023/6/21 上午 10:12:52 DataFlow.Client 192.168.11.245:1000 Start.
+2023/6/21 上午 10:12:52 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 上午 10:12:53 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 上午 10:12:54 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 上午 10:12:56 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 上午 10:12:57 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 上午 10:12:58 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 上午 10:12:59 DataFlow.Serial ConnectDetecion Released.
+2023/6/21 上午 10:12:59 DataFlow.Serial SerialPort(COM1) Disconnected.
+2023/6/21 下午 11:03:26 DataFlow.Client 192.168.11.245:1000 Start.
+2023/6/21 下午 11:03:26 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:03:27 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:03:28 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:03:29 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:03:31 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:03:32 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:03:33 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:03:34 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:03:35 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:03:37 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:03:38 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:03:39 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:03:51 DataFlow.Client 192.168.11.245:1000 Start.
+2023/6/21 下午 11:03:51 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:03:52 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:03:53 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:03:54 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:03:56 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:03:57 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:03:58 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:03:59 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:04:01 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:05:54 DataFlow.Client 192.168.11.245:1000 Start.
+2023/6/21 下午 11:05:54 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:05:55 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:05:57 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:05:58 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:05:59 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:06:00 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:07:13 DataFlow.Client 192.168.11.245:1000 Start.
+2023/6/21 下午 11:07:14 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:07:15 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:07:16 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:07:17 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:07:18 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:07:19 DataFlow.LogicControlStatusVisitor firstTest_messages: 1 ID:   Level: 1
+2023/6/21 下午 11:07:20 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:07:21 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:07:22 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:07:23 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:07:25 DataFlow.Serial SerialPort(COM1) Connect Searching.
+2023/6/21 下午 11:07:26 DataFlow.Serial SerialPort(COM1) Connect Searching.

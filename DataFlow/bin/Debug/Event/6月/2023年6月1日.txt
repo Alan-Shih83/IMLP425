@@ -1,0 +1,107 @@
+2023/6/1 下午 01:53:04 RS232 Send: 0x02 0x52 0x45 0x43 0x03 (REC)
+2023/6/1 下午 01:53:04 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 01:53:09 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 01:53:09 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 01:53:14 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 01:53:14 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 01:53:19 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 01:53:19 DataFlow.SerialPortStatusVisitor Level-1 Received PCBID TimeOut.
+2023/6/1 下午 01:53:19 RS232 Send: 0x02 0x52 0x45 0x43 0x03 (REC)
+2023/6/1 下午 04:21:53 DataFlow.SerialPortStatusVisitor Test Request: 
+2023/6/1 下午 04:21:53 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:21:56 DataFlow.SerialPortStatusVisitor Test Request: 
+2023/6/1 下午 04:21:57 DataFlow.SerialPortStatusVisitor Test Request: 
+2023/6/1 下午 04:21:57 DataFlow.SerialPortStatusVisitor Test Request: 
+2023/6/1 下午 04:21:57 DataFlow.SerialPortStatusVisitor Test Request: 
+2023/6/1 下午 04:21:58 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:21:58 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:21:58 DataFlow.SerialPortStatusVisitor Test Request: 
+2023/6/1 下午 04:21:58 DataFlow.SerialPortStatusVisitor Test Request: 
+2023/6/1 下午 04:21:59 DataFlow.SerialPortStatusVisitor Test Request: 
+2023/6/1 下午 04:22:03 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:22:03 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:22:08 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:22:08 DataFlow.SerialPortStatusVisitor Level-1 Received PCBID TimeOut.
+2023/6/1 下午 04:22:08 RS232 Send: 0x02 0x52 0x45 0x43 0x03 (REC)
+2023/6/1 下午 04:22:08 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:22:13 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:22:13 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:22:18 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:22:18 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:22:23 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:22:23 DataFlow.SerialPortStatusVisitor Level-1 Received PCBID TimeOut.
+2023/6/1 下午 04:22:23 RS232 Send: 0x02 0x52 0x45 0x43 0x03 (REC)
+2023/6/1 下午 04:22:23 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:22:28 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:22:28 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:22:31 DataFlow.SerialPortStatusVisitor Test Request: 
+2023/6/1 下午 04:22:33 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:22:33 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:22:38 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:22:38 DataFlow.SerialPortStatusVisitor Level-1 Received PCBID TimeOut.
+2023/6/1 下午 04:22:38 RS232 Send: 0x02 0x52 0x45 0x43 0x03 (REC)
+2023/6/1 下午 04:22:38 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:22:43 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:22:43 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:22:48 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:22:48 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:22:53 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:22:53 DataFlow.SerialPortStatusVisitor Level-1 Received PCBID TimeOut.
+2023/6/1 下午 04:22:53 RS232 Send: 0x02 0x52 0x45 0x43 0x03 (REC)
+2023/6/1 下午 04:22:53 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:22:58 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:22:58 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:23:03 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:23:03 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:23:08 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:23:08 DataFlow.SerialPortStatusVisitor Level-1 Received PCBID TimeOut.
+2023/6/1 下午 04:23:08 RS232 Send: 0x02 0x52 0x45 0x43 0x03 (REC)
+2023/6/1 下午 04:23:08 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:23:13 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:23:13 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:23:18 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:23:18 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:23:23 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:23:23 DataFlow.SerialPortStatusVisitor Level-1 Received PCBID TimeOut.
+2023/6/1 下午 04:23:23 RS232 Send: 0x02 0x52 0x45 0x43 0x03 (REC)
+2023/6/1 下午 04:23:23 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:23:28 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:23:28 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:23:33 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:23:33 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:23:38 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:23:38 DataFlow.SerialPortStatusVisitor Level-1 Received PCBID TimeOut.
+2023/6/1 下午 04:23:38 RS232 Send: 0x02 0x52 0x45 0x43 0x03 (REC)
+2023/6/1 下午 04:23:38 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:23:43 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:23:43 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:23:48 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:23:48 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:23:53 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:23:54 DataFlow.SerialPortStatusVisitor Level-1 Received PCBID TimeOut.
+2023/6/1 下午 04:23:54 RS232 Send: 0x02 0x52 0x45 0x43 0x03 (REC)
+2023/6/1 下午 04:23:54 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:23:59 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:23:59 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:24:04 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:24:04 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:24:09 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:24:09 DataFlow.SerialPortStatusVisitor Level-1 Received PCBID TimeOut.
+2023/6/1 下午 04:24:09 RS232 Send: 0x02 0x52 0x45 0x43 0x03 (REC)
+2023/6/1 下午 04:40:03 DataFlow.SerialPortStatusVisitor Test Request: 
+2023/6/1 下午 04:40:03 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:40:08 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:40:08 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:40:13 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:40:13 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:40:18 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:40:18 DataFlow.SerialPortStatusVisitor Level-1 Received PCBID TimeOut.
+2023/6/1 下午 04:40:18 RS232 Send: 0x02 0x52 0x45 0x43 0x03 (REC)
+2023/6/1 下午 04:40:47 DataFlow.SerialPortStatusVisitor Test Request: 
+2023/6/1 下午 04:40:47 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:40:52 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:40:52 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:40:57 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:40:57 RS232 Send: 0x02 0x31 0x03 (1)
+2023/6/1 下午 04:41:02 DataFlow.SerialPortStatusVisitor AOI Response PCBID TimeOut.
+2023/6/1 下午 04:41:02 DataFlow.SerialPortStatusVisitor Level-1 Received PCBID TimeOut.

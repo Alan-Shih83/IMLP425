@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\PCB_picture\DataFlow\bin\Release\DataFlow.exe.config
+C:\Users\USER\Desktop\PCB_picture\DataFlow\bin\Release\DataFlow.exe
+C:\Users\USER\Desktop\PCB_picture\DataFlow\bin\Release\DataFlow.pdb
+C:\Users\USER\Desktop\PCB_picture\DataFlow\bin\Release\System.Threading.Tasks.Dataflow.dll
+C:\Users\USER\Desktop\PCB_picture\DataFlow\bin\Release\System.Threading.Tasks.Dataflow.xml
+C:\Users\USER\Desktop\PCB_picture\DataFlow\obj\Release\DataFlow.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\PCB_picture\DataFlow\obj\Release\DataFlow.Form1.resources
+C:\Users\USER\Desktop\PCB_picture\DataFlow\obj\Release\DataFlow.Form2.resources
+C:\Users\USER\Desktop\PCB_picture\DataFlow\obj\Release\DataFlow.Form3.resources
+C:\Users\USER\Desktop\PCB_picture\DataFlow\obj\Release\DataFlow.Properties.Resources.resources
+C:\Users\USER\Desktop\PCB_picture\DataFlow\obj\Release\DataFlow._FormMain.resources
+C:\Users\USER\Desktop\PCB_picture\DataFlow\obj\Release\DataFlow.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\PCB_picture\DataFlow\obj\Release\DataFlow.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PCB_picture\DataFlow\obj\Release\DataFlow.csproj.CopyComplete
+C:\Users\USER\Desktop\PCB_picture\DataFlow\obj\Release\DataFlow.exe
+C:\Users\USER\Desktop\PCB_picture\DataFlow\obj\Release\DataFlow.pdb
